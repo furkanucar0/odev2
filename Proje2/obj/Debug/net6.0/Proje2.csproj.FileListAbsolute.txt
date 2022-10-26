@@ -1,0 +1,15 @@
+C:\Users\KAAN\Desktop\Odev2\Proje2\bin\Debug\net6.0\Proje2.exe
+C:\Users\KAAN\Desktop\Odev2\Proje2\bin\Debug\net6.0\Proje2.deps.json
+C:\Users\KAAN\Desktop\Odev2\Proje2\bin\Debug\net6.0\Proje2.runtimeconfig.json
+C:\Users\KAAN\Desktop\Odev2\Proje2\bin\Debug\net6.0\Proje2.dll
+C:\Users\KAAN\Desktop\Odev2\Proje2\bin\Debug\net6.0\Proje2.pdb
+C:\Users\KAAN\Desktop\Odev2\Proje2\obj\Debug\net6.0\Proje2.csproj.AssemblyReference.cache
+C:\Users\KAAN\Desktop\Odev2\Proje2\obj\Debug\net6.0\Proje2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAAN\Desktop\Odev2\Proje2\obj\Debug\net6.0\Proje2.AssemblyInfoInputs.cache
+C:\Users\KAAN\Desktop\Odev2\Proje2\obj\Debug\net6.0\Proje2.AssemblyInfo.cs
+C:\Users\KAAN\Desktop\Odev2\Proje2\obj\Debug\net6.0\Proje2.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\Desktop\Odev2\Proje2\obj\Debug\net6.0\Proje2.dll
+C:\Users\KAAN\Desktop\Odev2\Proje2\obj\Debug\net6.0\refint\Proje2.dll
+C:\Users\KAAN\Desktop\Odev2\Proje2\obj\Debug\net6.0\Proje2.pdb
+C:\Users\KAAN\Desktop\Odev2\Proje2\obj\Debug\net6.0\Proje2.genruntimeconfig.cache
+C:\Users\KAAN\Desktop\Odev2\Proje2\obj\Debug\net6.0\ref\Proje2.dll

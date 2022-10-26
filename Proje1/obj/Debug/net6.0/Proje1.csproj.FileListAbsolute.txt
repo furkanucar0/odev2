@@ -1,0 +1,15 @@
+C:\Users\KAAN\Desktop\Odev2\Proje1\bin\Debug\net6.0\Proje1.exe
+C:\Users\KAAN\Desktop\Odev2\Proje1\bin\Debug\net6.0\Proje1.deps.json
+C:\Users\KAAN\Desktop\Odev2\Proje1\bin\Debug\net6.0\Proje1.runtimeconfig.json
+C:\Users\KAAN\Desktop\Odev2\Proje1\bin\Debug\net6.0\Proje1.dll
+C:\Users\KAAN\Desktop\Odev2\Proje1\bin\Debug\net6.0\Proje1.pdb
+C:\Users\KAAN\Desktop\Odev2\Proje1\obj\Debug\net6.0\Proje1.csproj.AssemblyReference.cache
+C:\Users\KAAN\Desktop\Odev2\Proje1\obj\Debug\net6.0\Proje1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAAN\Desktop\Odev2\Proje1\obj\Debug\net6.0\Proje1.AssemblyInfoInputs.cache
+C:\Users\KAAN\Desktop\Odev2\Proje1\obj\Debug\net6.0\Proje1.AssemblyInfo.cs
+C:\Users\KAAN\Desktop\Odev2\Proje1\obj\Debug\net6.0\Proje1.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\Desktop\Odev2\Proje1\obj\Debug\net6.0\Proje1.dll
+C:\Users\KAAN\Desktop\Odev2\Proje1\obj\Debug\net6.0\refint\Proje1.dll
+C:\Users\KAAN\Desktop\Odev2\Proje1\obj\Debug\net6.0\Proje1.pdb
+C:\Users\KAAN\Desktop\Odev2\Proje1\obj\Debug\net6.0\Proje1.genruntimeconfig.cache
+C:\Users\KAAN\Desktop\Odev2\Proje1\obj\Debug\net6.0\ref\Proje1.dll
